@@ -82,7 +82,7 @@ for x in range(10):
 	j=random.randrange(1, 9)
 	k=random.randrange(1, 9)
 	l='Mobile/18G82 [FBAN/FBIOS;FBAV/333.0.0.30.109;FBBV/313309308;FBDV/iPhone10,5;FBMD/iPhone;FBSN/iOS;FBSV/14.7.1;FBSS/3;FBID/phone;FBLC/pt_BR;FBOP/5;FBRV/315505842]'
-	uak=f'{a}{b}/{c}{d}{e}{f}{g}{h}{i}{j}.{k} {lTutul}
+	
 def uaku():
 	try:
 		ua=open('bbnew.txt','r').read().splitlines()
